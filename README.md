@@ -1,12 +1,17 @@
 # fonts-tamil-bharathi
 
-Selected Bharathi tamil Fonts for slackware linux
+Bharathi Pusthakaalayam in collaboration with
+Chalkpiece Foundation released the Bharathi Azhagu
+Tamil Unicode fonts containing 808 fonts and
+2102 typefaces in 2019.
 
+This is my Selection of Bharathi tamil Fonts for slackware linux
 
 doc folder contains 25 fonts and 76 fontfaces
 handwriiten folder contains 7 fonts and 16 fontfaces
 condensed folder contains 7 fonts and 24 fontfaces
 reading folder contains 38 fonts and 110 fontfaces
+totalling 77 fonts and  226 fontfaces
 
 The fonts in doc folder is for writing documents and
 looks good especially typeset using lualatex.
